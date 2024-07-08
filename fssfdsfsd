@@ -1,0 +1,60 @@
+[33mcommit 1224e9dfc555724a241b1878300be329be699297[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: imaquerac <imaquerac@unjbg.edu.pe>
+Date:   Mon Jul 8 04:20:00 2024 -0500
+
+    cuarto commit: Añadiendo archivo trabajo4.cpp
+
+[33mcommit 416a96823214ea98a4a48aee86b4491a2febd1ff[m
+Author: imaquerac <imaquerac@unjbg.edu.pe>
+Date:   Mon Jul 8 04:11:57 2024 -0500
+
+    agregar trabajo3.cpp
+
+[33mcommit fc42bf2a00b735638469ca7c9d3ddea9e65871e0[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: imaquerac <imaquerac@unjbg.edu.pe>
+Date:   Mon Jul 8 04:03:12 2024 -0500
+
+    cambios2
+
+[33mcommit cfb71e891a9e2c758357e49048d5c97ddbe3a93e[m
+Merge: 2646e55 896facd
+Author: imaquerac <imaquerac@unjbg.edu.pe>
+Date:   Sun Jul 7 21:41:04 2024 -0500
+
+    cambios
+
+[33mcommit 2646e55e57c6f6568026c11b0e88d6b1ddd7c02a[m
+Author: imaquerac <imaquerac@unjbg.edu.pe>
+Date:   Sun Jul 7 21:29:17 2024 -0500
+
+    agregando cambios
+
+[33mcommit 896facdf9cfdccb8fc7a10919f3d722eb9a2acdd[m
+Author: imaquerac <imaquerac@unjbg.edu.pe>
+Date:   Sun Jul 7 21:12:59 2024 -0500
+
+    Update trabajo1.cpp
+
+[33mcommit fd8dd30b01f11ada20819661ede88dcf1d0122fb[m
+Author: imaquerac <imaquerac@unjbg.edu.pe>
+Date:   Sun Jul 7 19:07:49 2024 -0500
+
+    Actualizando trabajo1.cpp y creando trabajo2.cpp
+
+[33mcommit 5b96b619b7e6512ee69b27fd508d89254bd8b6af[m
+Author: imaquerac <imaquerac@unjbg.edu.pe>
+Date:   Sun Jul 7 19:03:20 2024 -0500
+
+    Agregar trabajo1.cpp
+
+[33mcommit d10ff5aa7b802f40a1698a39dec10b1892b69d92[m
+Author: imaquerac <imaquerac@unjbg.edu.pe>
+Date:   Sun Jul 7 18:57:05 2024 -0500
+
+    Primer commit: Añadir archivo README.txt
+
+[33mcommit 3ef07c897cd434997bf45a3b51d0649e0d6faabf[m[33m ([m[1;32mtmp[m[33m)[m
+Author: imaquerac <imaquerac@unjbg.edu.pe>
+Date:   Mon Jul 1 11:06:20 2024 -0500
+
+    Initial commit
